@@ -1,0 +1,7 @@
+Serial_ardu_proc.log
+Serial_proc_ardu.log
+*/autosave.config
+*.autosave
+logs/
+*/active.config
+*/active.seizure
